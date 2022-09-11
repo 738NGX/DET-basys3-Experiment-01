@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Sun Sep 11 19:42:47 2022
+# Process ID: 6068
+# Current directory: F:/Develop/basys3/basys3-01/basys3-01.runs/synth_1
+# Command line: vivado.exe -log mainDesign.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source mainDesign.tcl
+# Log file: F:/Develop/basys3/basys3-01/basys3-01.runs/synth_1/mainDesign.vds
+# Journal file: F:/Develop/basys3/basys3-01/basys3-01.runs/synth_1\vivado.jou
+# Running On: 738NGXL, OS: Windows, CPU Frequency: 3194 MHz, CPU Physical cores: 16, Host memory: 16471 MB
+#-----------------------------------------------------------
+source mainDesign.tcl -notrace
