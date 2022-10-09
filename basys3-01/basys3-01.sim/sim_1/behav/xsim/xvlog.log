@@ -1,4 +1,0 @@
-INFO: [VRFC 10-2263] Analyzing SystemVerilog file "F:/Develop/basys3/basys3-01/basys3-01.srcs/sim_1/new/mainSim.sv" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module mainSim
-INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Develop/basys3/basys3-01/basys3-01.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module glbl
